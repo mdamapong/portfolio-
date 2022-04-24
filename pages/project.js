@@ -14,7 +14,6 @@ import {
 	LinkedinShareButton,
 	LinkedinIcon,
 } from 'next-share';
-import { projects } from './constants/constants';
 
 export default function Projects(props) {
 	return (
