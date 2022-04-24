@@ -40,3 +40,5 @@ export const projects = [
 		id: 3,
 	},
 ];
+
+export default projects;
