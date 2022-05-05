@@ -125,6 +125,7 @@ const ContactForm = () => {
 									Submit
 								</button>
 							</form>
+							<p>You can also email me at mdamapong@gmail.com</p>
 						</div>
 					</div>
 				</div>
