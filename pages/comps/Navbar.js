@@ -21,6 +21,10 @@ const Navbar = () => {
 				<a>About</a>
 			</Link>
 
+			<Link href='/resume'>
+				<a>Resume</a>
+			</Link>
+
 			<Link href='/contact'>
 				<a>Contact</a>
 			</Link>
