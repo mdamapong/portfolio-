@@ -19,6 +19,9 @@ export default function Home() {
 			<Link href='/project'>
 				<a className={styles.btn}>Go to my work</a>
 			</Link>
+			<Link href='https://docs.google.com/document/d/1M-Og6z93KS8rtjucmWPnVenVAruOfhkKhdAQMFphsBQ/edit?usp=sharing'>
+				<a className={styles.btn}>Resume</a>
+			</Link>
 		</>
 	);
 }

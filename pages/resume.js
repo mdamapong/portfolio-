@@ -4,7 +4,7 @@ export default function Resume() {
 	return (
 		<>
 			<p>
-				<Image src='/Resume.png' alt='Log' width={960} height={960} />
+				<Image src='/Resume.png' alt='Log' width={500} height={500} />
 			</p>
 		</>
 	);
